@@ -1,0 +1,26 @@
+git touch 
+echo>file1.txt
+echo 'This is the file 2'?file2.txt
+
+Working dir 
+
+
+staging dir / 
+cache dir 
+
+
+local area 
+commited area 
+
+remote 
+
+<!-- By default the branch create at the head  -->
+<!-- we can alos create the branch at the sprcific 
+ commit  -->
+
+ <!-- git log --grep ='added' -->
+ <!-- we can use it to filter the commits  -->
+
+
+ <!-- git log --since='' -->
+ 
